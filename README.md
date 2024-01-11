@@ -18,8 +18,10 @@ Estudo análise de dados.
 
 ### Encontre-me nas redes 
 <div>
-<a href="https://br.linkedin.com/in/arthur-lorran-070241160?trk=people-guest_people_search-card" target="_blank"><img loading="lazy" src="./linkedin.svg" target="_blank" width=60></a>
+<a href="https://br.linkedin.com/in/arthur-lorran-070241160?trk=people-guest_people_search-card" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=60 /></a>
 </div>
+
+<!--- <a href="https://br.linkedin.com/in/arthur-lorran-070241160?trk=people-guest_people_search-card" target="_blank"><img loading="lazy" src="./linkedin.svg" target="_blank" width=60></a> --->
 
 <!---
 arthurlorran1/arthurlorran1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
