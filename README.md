@@ -6,8 +6,8 @@ Estudo análise de dados.
 
 ## Formação
 
-* licenciatura em história | UERJ - cursando
-* Análise de Dados | Resilia - cursando
+* Licenciatura em História | UERJ - Cursando
+* Análise de Dados | Resilia - Cursando
 
 <!---
 - 👀 I’m interested in data
@@ -15,6 +15,10 @@ Estudo análise de dados.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
+
+### Acesse Também meu portfólio em: 
+[Drive](https://drive.google.com/drive/folders/1vRu06kK1JNXr3d7VC4RIArLqtFG6amz6?hl=pt-br)
+
 
 ### Encontre-me nas redes 
 <div>
