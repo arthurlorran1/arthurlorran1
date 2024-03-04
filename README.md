@@ -17,7 +17,12 @@ Estudo análise de dados.
 --->
 
 ### Acesse Também meu portfólio em: 
-[Drive](https://drive.google.com/drive/folders/1vRu06kK1JNXr3d7VC4RIArLqtFG6amz6?hl=pt-br)
+<div>
+<a href="https://drive.google.com/drive/folders/1vRu06kK1JNXr3d7VC4RIArLqtFG6amz6?hl=pt-br" target="_blank"><img loading="lazy" src="./drive.png" target="_blank" width=80></a>
+</div>
+
+
+
 
 
 ### Encontre-me nas redes 
